@@ -1,4 +1,4 @@
-##rcan的通道主力里换为二阶注意力
+##rcan的通道注意力换为二阶注意力
 from model import common
 
 import torch.nn as nn
